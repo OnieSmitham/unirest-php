@@ -1,4 +1,4 @@
-sudo: false
+sudo:#false
 
 language: php
 
@@ -37,3 +37,4 @@ notifications:
     on_success: always
     on_failure: always
     on_start: false
+ 
